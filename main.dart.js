@@ -38943,7 +38943,7 @@ m.T(0,n.gq2())
 l.p2=n}else n=p
 return new A.x_(new A.JB(r,new A.WU(s,!1),n,q,t.nm),o)}}
 A.EA.prototype={
-gyh(){var s=t.Op,r=A.b([A.Eq(!0,B.rQ,"/home")],s)
+gyh(){var s=t.Op,r=A.b([A.Eq(!0,B.rQ,"/")],s)
 B.b.L(r,A.ayO().gyh())
 A.ayN()
 B.b.L(r,A.b([A.Eq(!0,B.rP,null)],s))
